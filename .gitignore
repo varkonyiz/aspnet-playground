@@ -408,3 +408,4 @@ baseline.json
 # Husky
 .husky/_
 aio/content/examples/.DS_Store
+/WorkScheduler/ClientApp/.angular/cache/14.0.3
